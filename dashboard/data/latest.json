@@ -1,5 +1,5 @@
 {
-  "updated_label": "2026-09-23 08:15:10 UTC",
+  "updated_label": "2026-09-23 13:41:36 UTC",
   "market": {
     "nepse": 2624.36,
     "change_pct": 0.87,
@@ -18,7 +18,7 @@
       "https://api.parse.bot/scraper/200a3fbe-2c84-436d-8f67-6c08621de86e/get_market_summary",
       "https://api.parse.bot/scraper/200a3fbe-2c84-436d-8f67-6c08621de86e/get_today_prices"
     ],
-    "as_of": "2026-09-23T08:15:10.227615+00:00",
+    "as_of": "2026-09-23T13:41:36.690442+00:00",
     "point_change": 22.85,
     "high": 2647.4843,
     "low": 2614.1259
@@ -219,7 +219,7 @@
   },
   "pipeline": {
     "status": "live-feed-connected",
-    "refreshed_at": "2026-09-23T08:15:10.227615+00:00",
+    "refreshed_at": "2026-09-23T13:41:36.690442+00:00",
     "interval": "5 minutes (GitHub Actions); upstream freshness depends on source",
     "market_open": false,
     "sources": {
